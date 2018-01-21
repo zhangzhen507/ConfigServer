@@ -6,7 +6,7 @@ It is for applications configurations management.
 http://blog.csdn.net/comeonzz/article/details/79122744
 
 # Config Server Introduction
-Config Server
+本文介绍简单的使用Config Server. 
 Spring Cloud Config Server 作为配置中心服务端
 
 拉取配置时更新 git 仓库副本，保证是最新结果 
